@@ -1,0 +1,28 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Wed Jan 15 22:43:56 2025
+# Process ID: 28712
+# Current directory: E:/VED/sem1/minor_2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent9176 E:\VED\sem1\minor_2\minor_2.xpr
+# Log file: E:/VED/sem1/minor_2/vivado.log
+# Journal file: E:/VED/sem1/minor_2\vivado.jou
+# Running On        :Joy-ce-2
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :22631
+# Processor Detail  :11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+# CPU Frequency     :2995 MHz
+# CPU Physical cores:2
+# CPU Logical cores :4
+# Host memory       :8115 MB
+# Swap memory       :9448 MB
+# Total Virtual     :17564 MB
+# Available Virtual :2249 MB
+#-----------------------------------------------------------
+start_gui
+open_project E:/VED/sem1/minor_2/minor_2.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source ADC_16bit_tb.tcl
